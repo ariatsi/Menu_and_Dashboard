@@ -78,7 +78,7 @@ public class DashboardActivity extends AppCompatActivity {
                 finish();
                 return true;
         } else {
-            // Ajoutez des cas pour les autres items du menu si nécessaire
+            // Ajoutez des cas pour les autres items du menu si nécessaire ...
         }
         return super.onOptionsItemSelected(item);
     }
