@@ -1,21 +1,33 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color my_light_primary
 color white
+drawable gsb_logo
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id ficheDescription
+id ficheTitle
+id fichesRecyclerView
+id imageView
 id login
 id logout
 id main
 id menu1
 id menu2
 id menu3
+id middle_space
+id noFichesTextView
 id password
+id space
+id spaceNoFoche
 id toolbar
+id top_space
 id username
 id welcomeText
 layout activity_dashboard
 layout activity_main
+layout item_fiche
 menu dashboard_menu
 mipmap ic_launcher
 mipmap ic_launcher_round

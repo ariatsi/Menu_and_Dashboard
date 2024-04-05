@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="my_light_primary">#0081CE</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">menu_and_dashboard</string>
     <string name="email">Email</string>
@@ -11,6 +12,7 @@
     <style name="Base.Theme.menu_and_dashboard" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        <item name="colorPrimary">@color/my_light_primary</item>
     </style>
     <style name="Theme.menu_and_dashboard" parent="Base.Theme.menu_and_dashboard"/>
 </resources>

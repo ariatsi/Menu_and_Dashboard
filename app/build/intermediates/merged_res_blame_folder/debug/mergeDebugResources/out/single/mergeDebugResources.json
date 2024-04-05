@@ -1,78 +1,90 @@
 [
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/layout_activity_dashboard.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/layout/activity_dashboard.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/menu_dashboard_menu.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/menu/dashboard_menu.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\layout\\activity_dashboard.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\menu_dashboard_menu.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\menu\\dashboard_menu.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/layout_item_fiche.xml.flat",
+        "source": "fr.itds.menu_and_dashboard.app-main-33:/layout/item_fiche.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/layout_activity_main.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\layout_item_fiche.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\layout\\item_fiche.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/xml_backup_rules.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\drawable_gsb_logo.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\drawable\\gsb_logo.xml"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "fr.itds.menu_and_dashboard.app-debug-31:/xml_data_extraction_rules.xml.flat",
-        "source": "fr.itds.menu_and_dashboard.app-main-33:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y\\.gradle\\daemon\\8.4\\fr.itds.menu_and_dashboard.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     }
 ]

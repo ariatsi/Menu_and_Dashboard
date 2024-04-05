@@ -2066,6 +2066,7 @@ color mtrl_textinput_disabled_color
 color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
+color my_light_primary
 color notification_action_color_filter
 color notification_icon_bg_color
 color primary_dark_material_dark
@@ -2981,6 +2982,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gsb_logo
 drawable ic_arrow_back_black_24
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
@@ -3251,6 +3253,9 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id ficheDescription
+id ficheTitle
+id fichesRecyclerView
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3287,6 +3292,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id indeterminate
@@ -3341,6 +3347,7 @@ id menu2
 id menu3
 id message
 id middle
+id middle_space
 id mini
 id month_grid
 id month_navigation_bar
@@ -3383,6 +3390,7 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id noFichesTextView
 id noScroll
 id noState
 id none
@@ -3478,6 +3486,8 @@ id snackbar_text
 id snap
 id snapMargins
 id south
+id space
+id spaceNoFoche
 id spacer
 id special_effects_controller_view_tag
 id spline
@@ -3539,6 +3549,7 @@ id toggle
 id toolbar
 id top
 id topPanel
+id top_space
 id touch_outside
 id transitionToEnd
 id transitionToStart
@@ -3705,6 +3716,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout item_fiche
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
