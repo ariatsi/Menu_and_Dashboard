@@ -4,7 +4,7 @@
             "outputFile": "fr.itds.menu_and_dashboard.app-mergeDebugResources-29:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Y\\.gradle\\caches\\8.11.1\\transforms\\b445c2ebcb43b41cb2fea0bbb923cefb\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\Y\\AndroidStudioProjects\\CALC-B2\\VALENTIN-Clement\\CalculatriceClement\\caches\\8.11.1\\transforms\\a0f56cd3d26e5abe2996dd17d52e1d75\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

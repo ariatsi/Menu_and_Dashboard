@@ -4,7 +4,7 @@
             "outputFile": "fr.itds.menu_and_dashboard.app-mergeDebugResources-29:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Y\\.gradle\\caches\\8.11.1\\transforms\\a40220f31fa09167abb6f50611c9f749\\transformed\\material-1.11.0\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+                    "source": "C:\\Users\\Y\\AndroidStudioProjects\\CALC-B2\\VALENTIN-Clement\\CalculatriceClement\\caches\\8.11.1\\transforms\\e9e6a8a95afedfaf6f63dbc64a80a41e\\transformed\\material-1.11.0\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

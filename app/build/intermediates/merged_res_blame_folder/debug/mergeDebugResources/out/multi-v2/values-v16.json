@@ -4,7 +4,7 @@
             "outputFile": "fr.itds.menu_and_dashboard.app-mergeDebugResources-29:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Y\\.gradle\\caches\\8.11.1\\transforms\\ac6aa065654926c3d8c66aa18d51784b\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Y\\AndroidStudioProjects\\CALC-B2\\VALENTIN-Clement\\CalculatriceClement\\caches\\8.11.1\\transforms\\ee832b8137f60cdb93c88845f6e1ba7f\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Y\\.gradle\\caches\\8.11.1\\transforms\\b445c2ebcb43b41cb2fea0bbb923cefb\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Y\\AndroidStudioProjects\\CALC-B2\\VALENTIN-Clement\\CalculatriceClement\\caches\\8.11.1\\transforms\\a0f56cd3d26e5abe2996dd17d52e1d75\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

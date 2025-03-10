@@ -4,7 +4,24 @@
             "outputFile": "fr.itds.menu_and_dashboard.app-mergeDebugResources-29:/values-ka/values-ka.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Y\\.gradle\\caches\\8.11.1\\transforms\\a40220f31fa09167abb6f50611c9f749\\transformed\\material-1.11.0\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\Y\\AndroidStudioProjects\\CALC-B2\\VALENTIN-Clement\\CalculatriceClement\\caches\\8.11.1\\transforms\\ee832b8137f60cdb93c88845f6e1ba7f\\transformed\\core-1.9.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "102",
+                        "startColumns": "4",
+                        "startOffsets": "8630",
+                        "endColumns": "100",
+                        "endOffsets": "8726"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Y\\AndroidStudioProjects\\CALC-B2\\VALENTIN-Clement\\CalculatriceClement\\caches\\8.11.1\\transforms\\e9e6a8a95afedfaf6f63dbc64a80a41e\\transformed\\material-1.11.0\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Y\\.gradle\\caches\\8.11.1\\transforms\\b445c2ebcb43b41cb2fea0bbb923cefb\\transformed\\appcompat-1.6.1\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\Y\\AndroidStudioProjects\\CALC-B2\\VALENTIN-Clement\\CalculatriceClement\\caches\\8.11.1\\transforms\\a0f56cd3d26e5abe2996dd17d52e1d75\\transformed\\appcompat-1.6.1\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -37,23 +54,6 @@
                         "startOffsets": "323,431,534,645,731,836,949,1032,1111,1202,1295,1390,1484,1584,1677,1772,1867,1958,2049,2130,2243,2349,2447,2560,2665,2769,2927,8548",
                         "endColumns": "107,102,110,85,104,112,82,78,90,92,94,93,99,92,94,94,90,90,80,112,105,97,112,104,103,157,98,81",
                         "endOffsets": "426,529,640,726,831,944,1027,1106,1197,1290,1385,1479,1579,1672,1767,1862,1953,2044,2125,2238,2344,2442,2555,2660,2764,2922,3021,8625"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Y\\.gradle\\caches\\8.11.1\\transforms\\ac6aa065654926c3d8c66aa18d51784b\\transformed\\core-1.9.0\\res\\values-ka\\values-ka.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "102",
-                        "startColumns": "4",
-                        "startOffsets": "8630",
-                        "endColumns": "100",
-                        "endOffsets": "8726"
                     }
                 }
             ]
