@@ -52,6 +52,8 @@ public class DashboardActivity extends AppCompatActivity {
         // Configure la Toolbar
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         // Récupérer les données de l'intent
         Intent intent = getIntent();
@@ -82,6 +84,7 @@ public class DashboardActivity extends AppCompatActivity {
 */
         fetchFiches(userId, token);
         Toast.makeText(DashboardActivity.this, "Les fiches de " + firstName + " recuperés", Toast.LENGTH_LONG).show();
+        Toast.makeText(DashboardActivity.this, "Token:" + token, Toast.LENGTH_LONG).show();
     }
 
     @Override
